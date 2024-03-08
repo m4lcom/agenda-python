@@ -1,0 +1,7 @@
+Tipo de contacto: Persona, Apellido: darin, Nombre: ricardo, DNI: 45789345, Direccion: urquiza 3101, Fecha de nacimiento: 1966/08/16
+Tipo de contacto: Persona, Apellido: francela, Nombre: guillermo, DNI: 45734123, Direccion: rioja 890, Fecha de nacimiento: 1956/01/11
+Tipo de contacto: Empresa, Nombre: coca cola, CUIT: 36792341, Direccion: francia 345, Fecha de fundacion: 1901/12/24
+Tipo de contacto: Persona, Apellido: penia, Nombre: florencia, DNI: 23567943, Direccion: entre rios 1893, Fecha de nacimiento: 1970/04/03
+Tipo de contacto: Empresa, Nombre: arcor, CUIT: 236890213, Direccion: suipacha 123, Fecha de fundacion: 1889/12/03
+Tipo de contacto: Empresa, Nombre: ford, CUIT: 567893145, Direccion: lugones 20110, Fecha de fundacion: 1889/06/13
+Tipo de contacto: Persona, Apellido: suarez, Nombre: eugenia, DNI: 34653123, Direccion: mitre 3090, Fecha de nacimiento: 1989/12/18
